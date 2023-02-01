@@ -1,0 +1,27 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "calc.js",
+  "scripts": {
+    "start": "node calc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vyacheslav-H/Calculator-Progect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vyacheslav-H/Calculator-Progect/issues"
+  },
+  "homepage": "https://github.com/Vyacheslav-H/Calculator-Progect#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsdom": "^21.1.0"
+  },
+  "description": ""
+}
